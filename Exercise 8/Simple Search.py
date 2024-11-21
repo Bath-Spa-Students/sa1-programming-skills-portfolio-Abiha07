@@ -3,7 +3,7 @@ names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 # display prompt to the user to enter the name they are looking for
 search_name = input(" Enter the name you want to search for: ").strip()
-
+ 
 # Flag to track whether the name is found during the search
 found = False
 
