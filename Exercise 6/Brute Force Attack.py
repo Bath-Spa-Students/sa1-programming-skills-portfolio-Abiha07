@@ -3,7 +3,7 @@ correct_password = "12345"
 
 #  the maximum number of allowed password attempts
 max_attempts = 3
-
+ 
 # lable a counter to keep track of the number of attempts made
 attempts = 0
 
