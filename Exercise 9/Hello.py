@@ -6,4 +6,4 @@ def main():
 
 # The following line checks if this script is being run directly
 if __name__ == "__main__":
-    main()  # This calls the main() function if the script is run directly
+    main()  # This calls the main() function if the script is run directly 
