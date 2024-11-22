@@ -8,4 +8,4 @@ if monthly_salary >= 14000:
     else:
         print("Your experience is less than 2 years.")
 else:
-    print("You should earn at least 14000 to qualify.")
+    print("You should earn at least 14000 to qualify.") 
