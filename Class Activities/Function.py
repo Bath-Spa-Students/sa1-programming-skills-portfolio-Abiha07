@@ -7,4 +7,4 @@ def print_message_2():
   print(message)
 
 print_message()
-print_message_2()
+print_message_2() 
