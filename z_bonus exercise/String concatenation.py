@@ -5,4 +5,4 @@ string3 = "Laugh"
 
 # Combine along with display the output
 sentence = string1 + " " + string2 + " " + string3
-print(sentence)
+print(sentence) 
