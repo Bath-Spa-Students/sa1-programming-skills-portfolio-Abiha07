@@ -12,4 +12,4 @@ alien_color = 'red'
 
 # analysing the alien's color
 if alien_color == 'green':
-    print("great you earned 5 points!") 
+    print("great you earned 5 points!")  
