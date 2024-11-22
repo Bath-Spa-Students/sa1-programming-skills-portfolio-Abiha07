@@ -18,4 +18,4 @@ dictionary  = { 'Name' : 'abiha' ,
                 'Fathers name ': 'asad' } 
 print(dictionary.pop("Roll No"))
 print(dictionary.keys())
-print(dictionary.values()) 
+print(dictionary.values())  
